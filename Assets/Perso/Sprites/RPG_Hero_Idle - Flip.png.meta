@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 68bdce20ecd86e2439af31665814bec3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 137
+        width: 22
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47227246080a6a34ea9f9e78a83d5209
+      internalID: -2108282120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 137
+        width: 20
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80053015a91c1b04ca434418be4817b6
+      internalID: -1868293051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 137
+        width: 20
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31cba9ca06d49d438fc4cbcf2128018
+      internalID: -1024285412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 137
+        width: 22
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9132b32271128847bb9fe9613f25c98
+      internalID: 250604119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 137
+        width: 22
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b20e1bc9e4140943823da2ac1a20ca8
+      internalID: 379730237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 137
+        width: 22
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9e4557a2550d4498f28cff26ad2e5b
+      internalID: 316648196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 74
+        width: 19
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65431c1517eec4d4caf0526e2af78383
+      internalID: -879425247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 74
+        width: 18
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6cfff6b03c1e642887980820d01cb1
+      internalID: 1049460716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 74
+        width: 18
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab66cf9809b88f479ae941ee77446be
+      internalID: -1133546161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 74
+        width: 19
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fa4ac63a5147947bad36adfee0480a
+      internalID: 1119478581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 74
+        width: 19
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eeef4277ac8dd4b8b5fe2f62122870
+      internalID: 1445347529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 74
+        width: 19
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bd8000542d98645851e52b7cb420fc
+      internalID: -1569424542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 9
+        width: 22
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac6ea32c0e6bf6468f5981e79ba225d
+      internalID: 1718171192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 9
+        width: 20
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72933cf1dcf350d448cf48bb92b978a6
+      internalID: -673851557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 9
+        width: 20
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb11675e7aa9eae479cbcc822b780203
+      internalID: 1690703121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 9
+        width: 22
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279666a02a996784db6711c00c1d9c2f
+      internalID: -1648891087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 9
+        width: 22
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fdca0c67bf2e54c8b1b54af4bab047
+      internalID: 1588050861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Idle - Flip_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 9
+        width: 22
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a952446ecd4ef488fc6740ce8bef69
+      internalID: 688548076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RPG_Hero_Idle - Flip_0: -2108282120
+      RPG_Hero_Idle - Flip_1: -1868293051
+      RPG_Hero_Idle - Flip_10: 1445347529
+      RPG_Hero_Idle - Flip_11: -1569424542
+      RPG_Hero_Idle - Flip_12: 1718171192
+      RPG_Hero_Idle - Flip_13: -673851557
+      RPG_Hero_Idle - Flip_14: 1690703121
+      RPG_Hero_Idle - Flip_15: -1648891087
+      RPG_Hero_Idle - Flip_16: 1588050861
+      RPG_Hero_Idle - Flip_17: 688548076
+      RPG_Hero_Idle - Flip_2: -1024285412
+      RPG_Hero_Idle - Flip_3: 250604119
+      RPG_Hero_Idle - Flip_4: 379730237
+      RPG_Hero_Idle - Flip_5: 316648196
+      RPG_Hero_Idle - Flip_6: -879425247
+      RPG_Hero_Idle - Flip_7: 1049460716
+      RPG_Hero_Idle - Flip_8: -1133546161
+      RPG_Hero_Idle - Flip_9: 1119478581
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

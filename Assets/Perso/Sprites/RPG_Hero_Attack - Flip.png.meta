@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: cd36d4a50823dc44ead3a7ed51683f77
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 507
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3b3130e8a46304186d9459e8a5e9fb
+      internalID: -1976446893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 507
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74d5d1645c2349418f4fd850d3367a8
+      internalID: 1369054175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 507
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e12f9cb9c69d9439cbc15a1c01188d
+      internalID: -1645473730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 507
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dad411733ee8cc42804f683d75a2c5c
+      internalID: -1173322511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 507
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebd0157f133d054397f6d578e6170fb
+      internalID: -864260244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 410
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46627926be9bb734891e4fabbff6f55b
+      internalID: -834219628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 410
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce49abf662852846a1a61b28347cb71
+      internalID: 1534912175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 410
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3507e4f7eb41e4fa0a360bca9812df
+      internalID: -1704862543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 410
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25cbf0b313a5724b9f672f95edd0ac1
+      internalID: -638107058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 410
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18200b290a777204a8e9bd48dac1b3d4
+      internalID: -1586738742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 313
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41edc4e17e002214a8b70a252b4150f6
+      internalID: -1758521317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 313
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbbf604eff4ab643bb784d2d9a1e737
+      internalID: -235414247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 313
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c38fa751236c94b9070a638c778199
+      internalID: 1814893237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 313
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b30f560e5597945818dd2c3d30e749
+      internalID: -1092326882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 313
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103434ed2e8b9b64cb8b03ce48e092f2
+      internalID: 1710957591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 216
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f14691334950c40bd0900b235b590d
+      internalID: 1231201011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 216
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b784074ea37aba74283722c7f9ce367e
+      internalID: -377185544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 216
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280d054d6fb496c41bdbb2b2c5ff3ba2
+      internalID: -350910795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 216
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a20c2ec647621459bb4530b3cc1787
+      internalID: 1502490408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 216
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2b46d5cd94eda498616e0f3ac9885f
+      internalID: 377139249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 119
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968215abe09fdc840b857e5915d1b0a2
+      internalID: 2089906098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 119
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d548d050b2b507f4c9ebcda21eaf7a4f
+      internalID: 809368607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 119
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e235b9db2225bc4d938dde7d483ac8f
+      internalID: -1291103647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 119
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fc090e25bda764ca31a2f874b27e24
+      internalID: 735756677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_24
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 119
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144a7a008ac411141ba7ca1c55239ebe
+      internalID: 1720285317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 22
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a587ffe3e3b4e049bfbc97ef5efe0d6
+      internalID: -71871406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 22
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c16ddb0f909494885b86714a764fbe
+      internalID: -211646500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 22
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb8fc8b329ac4b4ebd45e25d3b2291f
+      internalID: 910610709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_28
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 22
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcc907b2baf1e94fb19f6886a4059f7
+      internalID: 1104989218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack - Flip_29
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 22
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4bdf5e1f2623c4a8b9673c1f6c7935
+      internalID: -512388094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RPG_Hero_Attack - Flip_0: -1976446893
+      RPG_Hero_Attack - Flip_1: 1369054175
+      RPG_Hero_Attack - Flip_10: -1758521317
+      RPG_Hero_Attack - Flip_11: -235414247
+      RPG_Hero_Attack - Flip_12: 1814893237
+      RPG_Hero_Attack - Flip_13: -1092326882
+      RPG_Hero_Attack - Flip_14: 1710957591
+      RPG_Hero_Attack - Flip_15: 1231201011
+      RPG_Hero_Attack - Flip_16: -377185544
+      RPG_Hero_Attack - Flip_17: -350910795
+      RPG_Hero_Attack - Flip_18: 1502490408
+      RPG_Hero_Attack - Flip_19: 377139249
+      RPG_Hero_Attack - Flip_2: -1645473730
+      RPG_Hero_Attack - Flip_20: 2089906098
+      RPG_Hero_Attack - Flip_21: 809368607
+      RPG_Hero_Attack - Flip_22: -1291103647
+      RPG_Hero_Attack - Flip_23: 735756677
+      RPG_Hero_Attack - Flip_24: 1720285317
+      RPG_Hero_Attack - Flip_25: -71871406
+      RPG_Hero_Attack - Flip_26: -211646500
+      RPG_Hero_Attack - Flip_27: 910610709
+      RPG_Hero_Attack - Flip_28: 1104989218
+      RPG_Hero_Attack - Flip_29: -512388094
+      RPG_Hero_Attack - Flip_3: -1173322511
+      RPG_Hero_Attack - Flip_4: -864260244
+      RPG_Hero_Attack - Flip_5: -834219628
+      RPG_Hero_Attack - Flip_6: 1534912175
+      RPG_Hero_Attack - Flip_7: -1704862543
+      RPG_Hero_Attack - Flip_8: -638107058
+      RPG_Hero_Attack - Flip_9: -1586738742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

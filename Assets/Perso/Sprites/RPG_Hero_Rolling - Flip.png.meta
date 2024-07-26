@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 4299b792234d8ae4bb212bcc669e9d8c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 136
+        width: 28
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f7510e8306ceb439344f7b1d8ee4d0
+      internalID: 418021080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 136
+        width: 20
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbd72dd207c2f54ebd033bdc5b290ca
+      internalID: -163351823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 136
+        width: 26
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a63d2b4914a34888779a4721c80e4
+      internalID: 2000500488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 136
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc4e72106988e3498f9da058e8a41ad
+      internalID: 2022625196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 136
+        width: 22
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e4076dc7a1cf945a5f66d6ed939f51
+      internalID: -553542015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 144
+        width: 20
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879a93c28a3a79d4990ed1afd404fdf8
+      internalID: 1805803160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 72
+        width: 26
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34ea4a37debd294f979db28c1098c5f
+      internalID: 1660474618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 19
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af3852f51b5c504fbab50da2b4eb24a
+      internalID: -1393787982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 72
+        width: 20
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48da4130adfb6f04bb55e94f2789a48c
+      internalID: -592801093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 72
+        width: 25
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99987712e8818184390e687cb71c1f3e
+      internalID: -2078774313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 74
+        width: 29
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d170bc5b10123f44aa4b7177f086feb9
+      internalID: 512702341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 76
+        width: 29
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93f58777bdb6e2439dc7f8adc7da20a
+      internalID: -1932469029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 28
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedc90d3879817947b46da2c429de58a
+      internalID: 1985845891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 20
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5377dfb89aa811f4c83ac5708fb4ad7c
+      internalID: -1752266148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 8
+        width: 20
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9695e314b656c940b21604e730567d5
+      internalID: -1305737244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_15
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 8
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d8c64c77d742342a0e05574081396f
+      internalID: 636533493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 8
+        width: 20
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b387d53bf7ce0488266ad9ad372313
+      internalID: -1729238984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Rolling - Flip_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 14
+        width: 20
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ddc8281c53272409febfd570582b82
+      internalID: -1078341267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RPG_Hero_Rolling - Flip_0: 418021080
+      RPG_Hero_Rolling - Flip_1: -163351823
+      RPG_Hero_Rolling - Flip_10: 512702341
+      RPG_Hero_Rolling - Flip_11: -1932469029
+      RPG_Hero_Rolling - Flip_12: 1985845891
+      RPG_Hero_Rolling - Flip_13: -1752266148
+      RPG_Hero_Rolling - Flip_14: -1305737244
+      RPG_Hero_Rolling - Flip_15: 636533493
+      RPG_Hero_Rolling - Flip_16: -1729238984
+      RPG_Hero_Rolling - Flip_17: -1078341267
+      RPG_Hero_Rolling - Flip_2: 2000500488
+      RPG_Hero_Rolling - Flip_3: 2022625196
+      RPG_Hero_Rolling - Flip_4: -553542015
+      RPG_Hero_Rolling - Flip_5: 1805803160
+      RPG_Hero_Rolling - Flip_6: 1660474618
+      RPG_Hero_Rolling - Flip_7: -1393787982
+      RPG_Hero_Rolling - Flip_8: -592801093
+      RPG_Hero_Rolling - Flip_9: -2078774313
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

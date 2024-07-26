@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: 0df8608dd770af646b13187f444c7abd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b88e047df308e243b16c84297636ab3
+      internalID: -1091558879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 507
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5ff45824dd1cd43b4b78a07eab90a7
+      internalID: 223848606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 507
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ae22868e456114b893f7e0da263118
+      internalID: 1624373012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 507
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c479b0d1a62f3d842a365646b304441c
+      internalID: 1721511127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 507
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6af3a93d981e84f9ab0877b246a9cf
+      internalID: -698412082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c5bf962b9b0fc439eaa111c40c7b98
+      internalID: 38643956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 410
+        width: 96
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c11387b18da0c4387227b3cd305bbd
+      internalID: -1863122196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 410
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7d8acbec7714b4c81c82798f99cc0d
+      internalID: -1788270615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 410
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6a66c5404dca54aa71e101c6a7f77d
+      internalID: 247951000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 410
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990132f15d7b365438d91e857dc87eb6
+      internalID: 1963040736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 313
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc5e5363512a9b478725bf6464118d2
+      internalID: 9553626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 313
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dfeaab5bf299b47aede07051e5f1d2
+      internalID: 190854416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 313
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976cbf6d90e6f5049a7d89ab8ad8962a
+      internalID: 125781817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 313
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97146cced45bcc54a9b460ea4d9b46dd
+      internalID: 1726052350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25870cdb5789ddc46b3b46a0547a3333
+      internalID: -1599102108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 216
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7262db9cf12374bae76de4bd894639
+      internalID: -539605285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 216
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef83372c63656a46b21e6b6b455cefc
+      internalID: -1716654440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 216
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fff5311c33b7947b53b50e1c8c6282
+      internalID: -1086452948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155ef89f31964f94e9b01e824820dc73
+      internalID: -665189876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 119
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19320e892b6611345b6b2ca9e342d3f3
+      internalID: -1748775008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 119
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43114d04e8ce9a54cbc6256429001fb5
+      internalID: 1831071636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 119
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8ea7265a3cbb5488210a3782f4fb4b
+      internalID: -225234553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 119
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b0fed929387fc4485e46d8d8071a86
+      internalID: -1180919342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833e2b309d38b674080827dd4c66ab24
+      internalID: -1780102675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 22
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596720fa9a2b73b4d9e34e39a5a3c0f7
+      internalID: 569562587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 22
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfdd8c6e1f092d4180693116fc59b82
+      internalID: 1965042703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 22
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b478070fb932e4f44a5330c708a70593
+      internalID: 264022880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 22
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73c9d47aacce6e459d87c5e97c2336f
+      internalID: -556200698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9078feb5e8bded44aa3a23bb5a0a6ff2
+      internalID: 698892421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG_Hero_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 216
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97527f623df7a5741931f998e14267d3
+      internalID: 1094429503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RPG_Hero_Attack_0: -1091558879
+      RPG_Hero_Attack_1: 223848606
+      RPG_Hero_Attack_10: 698892421
+      RPG_Hero_Attack_11: 9553626
+      RPG_Hero_Attack_12: 190854416
+      RPG_Hero_Attack_13: 125781817
+      RPG_Hero_Attack_14: 1726052350
+      RPG_Hero_Attack_15: -1599102108
+      RPG_Hero_Attack_16: -539605285
+      RPG_Hero_Attack_17: 1094429503
+      RPG_Hero_Attack_18: -1716654440
+      RPG_Hero_Attack_19: -1086452948
+      RPG_Hero_Attack_2: 1624373012
+      RPG_Hero_Attack_20: -665189876
+      RPG_Hero_Attack_21: -1748775008
+      RPG_Hero_Attack_22: 1831071636
+      RPG_Hero_Attack_23: -225234553
+      RPG_Hero_Attack_24: -1180919342
+      RPG_Hero_Attack_25: -1780102675
+      RPG_Hero_Attack_26: 569562587
+      RPG_Hero_Attack_27: 1965042703
+      RPG_Hero_Attack_28: 264022880
+      RPG_Hero_Attack_29: -556200698
+      RPG_Hero_Attack_3: 1721511127
+      RPG_Hero_Attack_4: -698412082
+      RPG_Hero_Attack_5: 38643956
+      RPG_Hero_Attack_6: -1863122196
+      RPG_Hero_Attack_7: -1788270615
+      RPG_Hero_Attack_8: 247951000
+      RPG_Hero_Attack_9: 1963040736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
